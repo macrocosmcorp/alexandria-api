@@ -1,2 +1,5 @@
 .zip
 datasets/*
+.env
+venv
+__pycache__
